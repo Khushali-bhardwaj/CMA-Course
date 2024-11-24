@@ -1,0 +1,279 @@
+.navbar-brand img {
+    height: 20px;
+}
+
+.enroll-btn {
+    background-color: #ff5a5f;
+    color: #fff;
+    border-radius: 5px;
+    padding: 8px 15px;
+    text-decoration: none;
+}
+
+.enroll-btn:hover {
+    background-color: #e04a4c;
+}
+
+.main-heading {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.highlight {
+    background-color: yellow;
+    padding: 0 5px;
+}
+
+.about-text {
+    font-size: 0.9rem;
+    color: #444;
+}
+
+.left-box {
+    margin-left: 50px;
+    border-radius: 8px;
+    position: relative;
+}
+
+.left-box img {
+    max-width: 100%;
+    width: 500px;
+    border-radius: 5px;
+}
+
+.right-form {
+    background-color: #1d1d1d;
+    color: white;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.form-control,
+.btn {
+    border-radius: 8px;
+}
+
+.btn-register {
+    background-color: red;
+    border: none;
+}
+
+.btn-register:hover {
+    background-color: #cc0000;
+}
+
+.content-partner-section {
+    background-color: #f9f9f9;
+    padding: 40px;
+
+}
+
+.partner-logo {
+    max-width: 150px;
+    margin: 10px;
+}
+
+.mobile-mockup img {
+    width: 100%;
+    max-width: 450px;
+}
+
+.profile-banner {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.profile-heading {
+    background-color: #ffd700;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.ratings {
+    margin: 20px 0;
+}
+
+.ratings .icon {
+    font-size: 2rem;
+    color: #ffd700;
+}
+
+.star-text {
+    font-size: 0.9rem;
+    margin-top: 5px;
+}
+
+.testimonials {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.testimonials p {
+    font-size: 0.9rem;
+}
+
+.profile-image {
+    text-align: center;
+    position: relative;
+}
+
+.profile-image img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 300px;
+}
+
+.linkedin-icon {
+    position: absolute;
+    top: 10px;
+    right: 0;
+}
+
+.webinar-banner {
+    background-color: #fff6ef;
+    border: 2px solid #f9e3dc;
+    border-radius: 15px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.webinar-text h4 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.webinar-text span {
+    color: red;
+    text-decoration: underline;
+}
+
+.webinar-date {
+    text-align: center;
+    border: 2px dashed #000;
+    border-radius: 10px;
+    padding: 10px 20px;
+    background-color: #fff;
+}
+
+.webinar-date .badge {
+    background-color: #ffd700;
+    color: #000;
+    font-weight: bold;
+}
+
+.register-button {
+    background-color: #ff4d4d;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    text-decoration: none;
+}
+
+.register-button:hover {
+    background-color: #e63939;
+}
+
+.dots {
+    color: #ffd700;
+    font-size: 1.5rem;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+}
+
+.btn-custom {
+    background-color: #ff4c4c;
+    color: #fff;
+    border: none;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.btn-custom:hover {
+    background-color: #e63939;
+}
+
+.info-box {
+    background-color: #fff;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid #ffe4d1;
+}
+
+.info-box ul {
+    padding-left: 20px;
+    list-style-type: none;
+    margin: 0;
+}
+
+.info-box ul li {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.info-box ul li::before {
+    content: "▶";
+    color: #ff4c4c;
+    font-size: 1rem;
+    margin-right: 10px;
+}
+
+.tab-buttons button {
+    margin-right: 10px;
+}
+
+.stats-box {
+    border: 2px solid #ff4c4c;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #fff;
+}
+
+.footer-section {
+    background-color: #ff4c4c;
+    padding: 30px;
+    text-align: center;
+    color: #fff;
+    position: relative;
+}
+
+.footer-box {
+    border: 2px dashed #fff;
+    padding: 15px;
+    border-radius: 10px; 
+}
+.footer-box .btn {
+    margin-top: 10px;
+    font-size: 1rem;  
+}
+
+
+
+
+
+
